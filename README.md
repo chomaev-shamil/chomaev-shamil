@@ -1,16 +1,22 @@
-## Hi there 👋
+# Shamil Chomaev
 
-<!--
-**chomaev-shamil/chomaev-shamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS developer with 5+ years of commercial experience.
 
-Here are some ideas to get you started:
+I work primarily with Swift, SwiftUI and Swift Concurrency. My experience includes client-server applications, subscriptions, offline synchronization, analytics, CI/CD and App Store releases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current work
+
+Currently working on a multi-platform delivery product and its iOS applications.
+
+## Open source
+
+**[Drift](https://github.com/chomaev-shamil/Drift)** — a testable SwiftUI coordinator with typed routes, async result delivery, deeplinks and Swift 6 strict concurrency.
+
+## Stack
+
+Swift · SwiftUI · Swift Concurrency · StoreKit · REST API · Core Data · Firebase · Fastlane · GitHub Actions
+
+## Contacts
+
+- [LinkedIn](https://www.linkedin.com/in/shamil-chomaev)
+- [Telegram](https://t.me/chomaev_dev)
